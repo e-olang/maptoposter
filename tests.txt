@@ -1,0 +1,5 @@
+- python create_map_poster.py --city "Tindinyo" --country "Kenya" -W "12.8" -H "7.2" -t "noir" --font-family "Cairo" -d 12000
+- python create_map_poster.py  --city "Nandi" --country "Kenya" -lat 0.183267 -long 34.943036 -W "12.8" -H "7.2" -t noir --font-family "Cairo" -d 12000
+
+
+0.183267, 34.943036
